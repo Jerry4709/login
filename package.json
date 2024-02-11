@@ -1,0 +1,25 @@
+{
+  "name": "re-lo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-flash": "^0.1.1",
+    "eis": "^0.0.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "mon": "^0.0.8",
+    "mongoose": "^8.1.1",
+    "node": "^21.6.1",
+    "nodemon": "^3.0.3"
+  }
+}
